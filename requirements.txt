@@ -1,5 +1,5 @@
 streamlit==1.28.0
 sqlalchemy==2.0.22
-psycopg2-binary==2.9.6
+pg8000==1.27.5
 groq-client==0.5.10
 requests==2.31.0
